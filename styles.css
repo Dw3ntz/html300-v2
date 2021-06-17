@@ -1,0 +1,12 @@
+.ex {
+  color: gold;
+}
+
+p {
+  color: blue;
+}
+
+form {
+  border-bottom: 3px solid black;
+  padding-bottom: 4px;
+}
